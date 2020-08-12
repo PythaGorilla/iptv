@@ -1,0 +1,370 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",湖南卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Est-Quebec HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67546?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Quebec HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67553?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) L'Assemblee nationale du Quebec HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67542?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TV5 Quebec HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67317?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/dNQUbok.png" group-title="Undefined",Assemblee Nationale du Quebec,CA | Assemblee Nationale du Quebec
+http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Assemblee Nationale du Quebec
+http://ingrid.ltd:25461/Juan123456/Juan123456/67517?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Assemblée nationale du Québec
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11413?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) ICI Tele Quebec HD
+http://live.realiptv.to:25461/lauren/lauren/88050?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) L'Assemblee nationale du Quebec HD
+http://live.realiptv.to:25461/lauren/lauren/88046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TELE QUEBEC (FR)
+http://live.realiptv.to:25461/lauren/lauren/3236?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE QUEBEC (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/15099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELEQ (TELETOON QUEBEC)
+http://thelogintarget.irish:8080/Barry/Barry123/70671?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] TELE QUEBEC
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60232?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR)  EMCI TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/67522?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) AMI-tele HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67277?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) CPAC (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67323?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Canal V
+http://ingrid.ltd:25461/Juan123456/Juan123456/67442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Disney La Chaine (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67375?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Disney La Chaine (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67511?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) EWTN
+http://ingrid.ltd:25461/Juan123456/Juan123456/67537?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI RDI HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67523?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI RDI HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67337?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Radio-Canada Télé (TOR) HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67586?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele 2 HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67524?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Acadie HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67543?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Alberta HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67544?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele CB-Yukon HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67545?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Estrie HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67547?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Manitoba HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67548?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Mauricie HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67549?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Montreal HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67550?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Ontario HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67551?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Ottawa-Gatineau HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67552?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Saguenay HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67554?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Saskatchewan HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67555?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Meteo Media (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Metro Media SD (P)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67366?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) NOOVO V-Tele
+http://ingrid.ltd:25461/Juan123456/Juan123456/67514?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) NOOVO V-Tele HD
+http://ingrid.ltd:25461/Juan123456/Juan123456/67532?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) RDS HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67495?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) RDS HQ (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67512?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) RDS SD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Super Ecran 1 SD (P)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67458?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TFO HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67319?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TV Rogers Ottawa (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TVA Carleton HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67579?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TVA Hull HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TVA Montreal HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67316?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) TVA Riviere-du-Loup HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",(FR) TVA Sports 2 HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67364?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",(FR) TVA Sports 2 HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",(FR) TVA Sports HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67365?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Teletoon SD (P)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67385?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Trace Africa
+http://ingrid.ltd:25461/Juan123456/Juan123456/67556?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Trace Mziki
+http://ingrid.ltd:25461/Juan123456/Juan123456/67557?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Trace Naija
+http://ingrid.ltd:25461/Juan123456/Juan123456/67558?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Trace Toca
+http://ingrid.ltd:25461/Juan123456/Juan123456/67559?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Trace Tropical
+http://ingrid.ltd:25461/Juan123456/Juan123456/67560?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Trace Urban
+http://ingrid.ltd:25461/Juan123456/Juan123456/67561?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) Unis TV HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67315?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ADDIK TV (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11402?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMI (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11406?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMI (FR)
+http://iptv.iptv1980.com:8000/john123/john123/41006?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMI-tele (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11407?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BET HD (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11425?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",C-PAC (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11432?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) ICI RDI HD
+http://live.realiptv.to:25461/lauren/lauren/88041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) ICI Tele Estrie HD
+http://live.realiptv.to:25461/lauren/lauren/88051?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) ICI Tele Mauricie HD
+http://live.realiptv.to:25461/lauren/lauren/88053?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA (FR) ICI Tele Saskatchewan HD
+http://live.realiptv.to:25461/lauren/lauren/88059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA AMI-TELE FR
+http://live.realiptv.to:25461/lauren/lauren/3090?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA CASA (FR)
+http://live.realiptv.to:25461/lauren/lauren/3218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA CBC Fredericton
+http://live.realiptv.to:25461/lauren/lauren/21884?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA CPAC FR
+http://live.realiptv.to:25461/lauren/lauren/3137?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Canal D (FR)
+http://live.realiptv.to:25461/lauren/lauren/3216?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA CinePOP (FR)
+http://live.realiptv.to:25461/lauren/lauren/3219?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA ICI Vancouver (FR)
+http://live.realiptv.to:25461/lauren/lauren/3227?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA LCN (FR)
+http://live.realiptv.to:25461/lauren/lauren/3228?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Music",CA MUSIC PLUS (FR)
+http://live.realiptv.to:25461/lauren/lauren/3305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Metro Media_(FR)
+http://live.realiptv.to:25461/lauren/lauren/59867?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA NOOVO V-Tele (FR)
+http://live.realiptv.to:25461/lauren/lauren/59889?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Prise 2 (FR)
+http://live.realiptv.to:25461/lauren/lauren/3231?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA RDS 2 (FR)
+http://live.realiptv.to:25461/lauren/lauren/3233?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Rogers TV FR
+http://live.realiptv.to:25461/lauren/lauren/3182?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Series+ (FR)
+http://live.realiptv.to:25461/lauren/lauren/3235?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Super Ecran 2 (FR)
+http://live.realiptv.to:25461/lauren/lauren/3301?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Super Ecran 3 (FR)
+http://live.realiptv.to:25461/lauren/lauren/3302?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TELEMAGINO  (FR)
+http://live.realiptv.to:25461/lauren/lauren/3211?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TFO (FR)
+http://live.realiptv.to:25461/lauren/lauren/3133?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TV5 (FR)
+http://live.realiptv.to:25461/lauren/lauren/3131?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Teletoon (FR)
+http://live.realiptv.to:25461/lauren/lauren/3134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA Unis_TV_(FR)
+http://live.realiptv.to:25461/lauren/lauren/3129?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA VRAK TV (FR)
+http://live.realiptv.to:25461/lauren/lauren/3240?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CANAL D (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11434?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CANAL VIE (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11439?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CASA (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC Fredericton HD (D)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67447?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC FRENCH
+http://mlsh1.com:2086/jared/jared/6157?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Undefined",CA | CPAC,CPAC,CPAC Francais
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CinePOP (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY FRENCH
+http://thelogintarget.irish:8080/Barry/Barry123/70566?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney La Chaine (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11544?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",EVASION (FR)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11560?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FRISON
+http://thelogintarget.irish:8080/Barry/Barry123/70584?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI Montreal (FR)
+http://hdonline.ml:80/rana/rana/2302?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI RDI (FR)
+http://hdonline.ml:80/rana/rana/2303?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MAX (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/14963?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",METEO (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/14965?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MOI & CIE (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/14971?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUSIC PLUS (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/14979?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUSIQUE PLUS (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/14980?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Meteo Media (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/14966?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT nal Savoir (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/14983?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS (FR)
+http://hdonline.ml:80/rana/rana/2166?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER ECRAN 1 (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/15056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Super Ecran 3 (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/15059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Super Ecran 4 (FR)
+http://epiciptvrestreamer.com:8000/kami/kami/15060?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE TOON FRENCH
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60130?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE TOON FRENCH
+http://thelogintarget.irish:8080/Barry/Barry123/70670?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",UNIS TV (FR)
+http://hdonline.ml:80/rana/rana/2194?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR]  LCN
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] ADDIK TV
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60219?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] CINE POP
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] EVASION
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] HISTORIO
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] ICI MONTREAL
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] ICI VANCOUVER FR
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] MOI CIE
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60227?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] PRISE
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60228?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] RDS
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60229?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] RDS 2
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60230?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] TFO
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60233?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] TVA MONTREAL
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60234?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",[CA-FR] TVA SPORTS
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60235?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] Z TELE
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60236?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR] ZESTE
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60237?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR]CANAL D
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60220?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",[CA-FR]SA
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(PA) Quo Vadis TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/67528?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67268?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(TA) Tamil Vision TV
+http://ingrid.ltd:25461/Juan123456/Juan123456/67531?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(ZH) CNTV
+http://ingrid.ltd:25461/Juan123456/Juan123456/67520?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
+http://mlsh1.com:2086/jared/jared/6107?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
+http://x.xtv.life:80/sever2020/2020sever/10039683?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
+http://thelogintarget.irish:8080/Barry/Barry123/70502?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
+http://hdonline.ml:80/rana/rana/2077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E FHD
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11393?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E FHD
+http://iptv.iptv1980.com:8000/john123/john123/40993?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67566?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC (West) HD
+http://iptv.iptv1980.com:8000/john123/john123/40994?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC 5
+http://x.xtv.life:80/sever2020/2020sever/10039681?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC 5 (WCVB) Boston (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67470?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC 7
+http://x.xtv.life:80/sever2020/2020sever/10039680?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC 7 (WKBW) Buffalo (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67325?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC 7 (WXYZ) Detroit (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67476?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC BUFFALO (WKBW)
+http://mlsh1.com:2086/jared/jared/6108?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC Buffalo
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11395?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC Buffalo (WKBW)
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11396?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC HD
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11397?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARK
+http://mlsh1.com:2086/jared/jared/6109?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARK
+http://thelogintarget.irish:8080/Barry/Barry123/70503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC SPARKHD
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11399?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC Spark (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67326?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC Spark HD
+http://epiciptvrestreamer.com:8000/kami/kami/14740?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC Spark HD
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11398?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC WEST
+http://mlsh1.com:2086/jared/jared/6110?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC WEST
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11400?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC-E
+http://thelogintarget.irish:8080/Barry/Barry123/70504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC-W
+http://thelogintarget.irish:8080/Barry/Barry123/70505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ADDIK
+http://thelogintarget.irish:8080/Barry/Barry123/70507?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ADDIK TV
+http://mlsh1.com:2086/jared/jared/6112?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ADDIK TV
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11401?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AHC
+http://thelogintarget.irish:8080/Barry/Barry123/70508?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AHC HD
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11404?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC
+http://mlsh1.com:2086/jared/jared/6114?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC
+http://thelogintarget.irish:8080/Barry/Barry123/70509?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67318?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC FHD
+http://tv.ultraiptv.org:80/hgfltzgp/11zz5Uc2aY/11405?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMERICAN HEROS CHANNEL
+http://mlsh1.com:2086/jared/jared/6115?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMI TV HD (R)
+http://ingrid.ltd:25461/Juan123456/Juan123456/67481?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://thelogintarget.irish:8080/Barry/Barry123/70510?checkedby:iptvcat.com

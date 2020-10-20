@@ -1,5 +1,17 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",ESPN DEPORTES
+http://185.232.53.5:2086/gennaro/gennaro/88723?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
+http://185.232.53.5:2086/gennaro/gennaro/92702?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sports ESPN
+http://ingrid.ltd:25461/Cc1/Cc1/3396?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 1 HD US
+http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/7763?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 FHD US
+http://restream.geniptv.com:8080/live:mediatvtop/lbCCll4Rga/569?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ESPN 2
+http://185.232.53.5:2086/gennaro/gennaro/98781?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS SPORTS NETWORK
 http://185.232.53.5:2086/gennaro/gennaro/220?checkedby:hlscat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS SPORTS NETWORK FHD 1080

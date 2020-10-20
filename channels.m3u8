@@ -1,5 +1,9 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS SPORTS NETWORK
+http://185.232.53.5:2086/gennaro/gennaro/220?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS SPORTS NETWORK FHD 1080
+http://185.232.53.5:2086/gennaro/gennaro/64144?checkedby:hlscat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",湖南卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",(FR) ICI Tele Est-Quebec HD (D)
